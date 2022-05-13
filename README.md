@@ -1,4 +1,4 @@
-<img src="https://imgur.com/1SqUKZe" width="100%">
+<img src="images/Calkin.png" width="100%">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
