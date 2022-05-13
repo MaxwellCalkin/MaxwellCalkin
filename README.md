@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/MMzFn0K" width="100%">
+<img src="https://imgur.com/1SqUKZe" width="100%">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
