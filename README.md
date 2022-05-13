@@ -1,4 +1,4 @@
-<img src="https://imgur.com/1SqUKZe" width="100%"><blockquote class="imgur-embed-pub" lang="en" data-id="a/MMzFn0K"  ><a href="//imgur.com/a/MMzFn0K">Logo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/1SqUKZe" width="100%">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
