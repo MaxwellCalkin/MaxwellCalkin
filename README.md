@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+After years in the entertainment industry, I am finding more fulfillment as an engineer building software that bonds and elevates humanity. Primarily, I achieve this in the form of full stack web applications. When Covid hit, I began freelancing as a web developer, and I’m now eager to bring my skills to a company with global reach.
 
 See [my website](https://shawncharles.com) for more information!
 
