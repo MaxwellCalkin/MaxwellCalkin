@@ -141,19 +141,19 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
 
 
 <p align="center">
-  <a href="https://shawncharles.com" target="_blank">
+  <a href="https://maxwellcalkin.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
+  <a href="https://linkedin.com/in/maxwellcalkin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://twitter.com.maxcalkin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
+  <a href="https://angel.co/u/maxwellcalkin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+  <a href="https://docs.google.com/document/d/1CXtPd0bBjMgi9osOXdCqRek-bfjGGr9K/edit?usp=sharing&ouid=106969897960613523203&rtpof=true&sd=true" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
