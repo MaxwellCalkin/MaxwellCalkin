@@ -13,14 +13,14 @@
   <a href="https://angel.co/u/maxwell-calkin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/17Sv1FawsUqvwD0OM8q241fjMJ_YMKDeZ/view?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1CXtPd0bBjMgi9osOXdCqRek-bfjGGr9K/edit?usp=sharing&ouid=106969897960613523203&rtpof=true&sd=true" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
 After years in the entertainment industry, I am finding more fulfillment as an engineer building software that bonds and elevates humanity. Primarily, I achieve this in the form of full stack web applications. When Covid hit, I began freelancing as a web developer, and I’m now eager to bring my skills to a company with global reach.
 
-See [my website](https://shawncharles.com) for more information!
+See [my website](https://MaxwellCalkin.netlify.app) for more information!
 
 
 <h1 align="center">Projects</h1>
@@ -28,7 +28,7 @@ See [my website](https://shawncharles.com) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">MLB Lineup Simulator</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%" alt="Travel App"/>
