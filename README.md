@@ -13,7 +13,7 @@
   <a href="https://angel.co/u/maxwell-calkin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+  <a href="https://drive.google.com/file/d/17Sv1FawsUqvwD0OM8q241fjMJ_YMKDeZ/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
