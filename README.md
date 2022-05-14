@@ -1,4 +1,4 @@
-<img src="images/Calkin.png" width="75%" margin="auto">
+<img src="images/Calkin.png" width="75%" margin="100px 100px">
 
 <p align="center">
   <a href="https://maxwellcalkin.netlify.app" target="_blank">
