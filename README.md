@@ -23,7 +23,7 @@ After years in the entertainment industry, I am finding more fulfillment as an e
 See [my website](https://MaxwellCalkin.netlify.app) for more information!
 
 
-<h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1> -->
 <!-- <table bordercolor="#66b2b2">
   
   <tr>
