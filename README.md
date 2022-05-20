@@ -70,7 +70,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
       <h3 align="center">MaxwellCalkin.com</h3>
       <br />
         <a target="_blank" href="https://MaxwellCalkin.netlify.app">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
