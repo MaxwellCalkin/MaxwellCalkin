@@ -43,10 +43,10 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <p><strong>Javascript, CSS, HTML with MLB API Integration</strong> - Go head to head with a freind picking your favorite MLB stars!  Whoever selects the nine best players WINS!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">To The Beat</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="#">
+            <img src="images/bike.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
