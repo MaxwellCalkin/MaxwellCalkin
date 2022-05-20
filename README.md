@@ -39,6 +39,9 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
   <a href="https://mlblineupsimulator.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
+  <!-- <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a> -->
       </p>
         <p><strong>Javascript, CSS, HTML with MLB API Integration</strong> - Go head to head with a freind picking your favorite MLB stars!  Whoever selects the nine best players WINS!</p>
     </td>
@@ -51,12 +54,12 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <!-- <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> -->
       </p>
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
@@ -71,9 +74,9 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+<!--   <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+  </a> -->
   <a href="http://maxwellcalkin.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
@@ -89,14 +92,14 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+<!--   <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  </a> -->
+  <a href="https:salonbymaxwell.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Dynamic, responsive websites for all types of businesses. Contact me to get started on your website and start engaging customers online!  I can make a website like this or to your specifications to help bring your style to your online presence. </p>
     </td>
   </tr>
 </table>
