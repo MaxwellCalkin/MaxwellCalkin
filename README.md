@@ -67,9 +67,9 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">MaxwellCalkin.com</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://MaxwellCalkin.netlify.app">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
@@ -84,10 +84,10 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Elegant Website Design</h3>
+      <h3 align="center">Elegant Websites for Businesses</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://salonbymaxwell.netlify.app/">
+          <img src="images/salon.gif" width="100%" alt="Salon Site"/>
         </a>
         <br />
         <p align="center">
