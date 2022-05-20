@@ -31,15 +31,12 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
       <h3 align="center">MLB Lineup Simulator</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/mlbLogo.jpg" width="100%" alt="Travel App"/>
+            <img src="images/mlbLogo.jpg" width="100%" alt="MLB App"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+           
+  <a href="https://mlblineupsimulator.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
