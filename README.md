@@ -23,8 +23,8 @@ After years in the entertainment industry, I am finding more fulfillment as an e
 See [my website](https://MaxwellCalkin.netlify.app) for more information!
 
 
-<!-- <h1 align="center">Projects</h1> -->
-<!-- <table bordercolor="#66b2b2">
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
@@ -102,7 +102,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
   </tr>
-</table> -->
+</table>
 
 
 <h1 align="center">Technologies</h1>
