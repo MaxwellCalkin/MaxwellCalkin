@@ -31,7 +31,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
       <h3 align="center">MLB Lineup Simulator</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/mlbLogo.jpg" width="100%" alt="MLB App"/>
+            <img src="images/sox.gif" width="100%" alt="MLB App"/>
         </a>
         <br />
         <p align="center">
