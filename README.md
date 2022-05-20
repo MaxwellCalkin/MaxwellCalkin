@@ -43,7 +43,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript, CSS, HTML with MLB API Integration</strong> - Go head to head with a freind picking your favorite MLB stars!  Whoever selects the nine best players WINS!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
@@ -84,7 +84,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Elegant Website Design</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
