@@ -54,12 +54,12 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <!-- <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
       </p>
         <p><strong>Javascript & Node.js</strong> - The best tool for anyone who needs curated playlists of songs with the same tempo.  Song selection for aerobic instructors, DJs and all music lovers.</p>
     </td>
