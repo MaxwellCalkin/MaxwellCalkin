@@ -99,7 +99,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Dynamic, responsive websites for all types of businesses. Contact me to get started on your website and start engaging customers online!  I can make a website like this or to your specifications to help bring your style to your online presence. </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Dynamic, responsive websites for all types of businesses. Contact me to get started on your website and start engaging customers online!</p>
     </td>
   </tr>
 </table>
