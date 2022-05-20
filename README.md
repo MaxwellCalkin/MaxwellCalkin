@@ -46,7 +46,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
       <h3 align="center">To The Beat</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="images/bike.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/biker.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
