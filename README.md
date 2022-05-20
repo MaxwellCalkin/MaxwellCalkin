@@ -61,7 +61,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript & Node.js</strong> - The best tool for anyone who needs curated playlists of songs with the same tempo.  Song selection for aerobic instructors, DJs and all music lovers.</p>
     </td>
   </tr>
   
