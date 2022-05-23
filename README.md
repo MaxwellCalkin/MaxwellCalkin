@@ -69,7 +69,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">MaxwellCalkin.com</h3>
       <br />
-        <a target="_blank" href="https://MaxwellCalkin.com">
+        <a target="_blank" href="https://www.MaxwellCalkin.com">
           <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
