@@ -1,7 +1,7 @@
 <img src="images/calkin.png" width="100%">
 
 <p align="center">
-  <a href="https://maxwellcalkin.netlify.app" target="_blank">
+  <a href="https://maxwellcalkin.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com.maxwellcalkin" target="_blank">
@@ -141,7 +141,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
 
 
 <p align="center">
-  <a href="https://maxwellcalkin.netlify.app" target="_blank">
+  <a href="https://maxwellcalkin.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/maxwellcalkin" target="_blank">
