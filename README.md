@@ -1,4 +1,4 @@
-<img src="images/calkin.png" width="100%">
+<img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/portfolio.png" width="100%">
 
 <p align="center">
   <a href="https://maxwellcalkin.com" target="_blank">
