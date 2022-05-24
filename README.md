@@ -18,7 +18,7 @@
   </a>
 </p>
 
-After years in the entertainment industry, I am finding more fulfillment as an engineer building software that bonds and elevates humanity. Primarily, I achieve this in the form of full stack web applications. When Covid hit, I began freelancing as a web developer, and I’m now eager to bring my skills to a company with global reach.
+After graduating from one of the world’s most prestigious conservatories, I built the first part of my career as a creator and performer for Broadway productions.  Through these creative pursuits, my interest in coding was able to flourish.  My intuition was that the web was a great way to interact with an audience, and I quickly found myself yearning to use this set of skills to affect more people in more profound ways.  When Covid hit, I used it as an opportunity to begin freelancing as a web developer, and I’m now eager to bring my skills to a brand with global reach.
 
 See [my website](https://MaxwellCalkin.netlify.app) for more information!
 
