@@ -48,7 +48,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Star Trek Mainframe</h3>
         <br />
-      <a target="_blank" href="https://startrekfullstack.netlify.app/">
+      <a target="_blank" href="https://www.startrekfullstack.netlify.app/">
             <img src="https://thumbs.gfycat.com/EachPositiveAmericancurl-max-1mb.gif" width="100%"  alt="Star Trek App"/>
         </a>
         <br />
