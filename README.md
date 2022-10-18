@@ -28,6 +28,25 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">We The People</h3>
+        <br />
+      <a target="_blank" href="https://www.WeThePeople.cyclic.app/">
+            <img src="images/wtp.gif" width="100%"  alt="We The People"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/MaxwellCalkin/weThePeople" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://WeThePeople.cyclic.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node, Express, Cyclic, MongoDB</strong> - We The People is my favorite and most important passion project. It is designed to hold political leaders accountable by visualizing their votes as they compare to the opinons of the people they represent.</p>
+    </td>
+    
+    <td width="50%" valign="top">
       <h3 align="center">MLB Lineup Simulator</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
@@ -45,24 +64,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
       </p>
         <p><strong>Javascript, CSS, HTML with MLB API Integration</strong> - Go head to head with a freind picking your favorite MLB stars!  Whoever selects the nine best players WINS!</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Star Trek Mainframe</h3>
-        <br />
-      <a target="_blank" href="https://www.startrekfullstack.netlify.app/">
-            <img src="https://thumbs.gfycat.com/EachPositiveAmericancurl-max-1mb.gif" width="100%"  alt="Star Trek App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/MaxwellCalkin/star-trek-full-stack" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://startrekfullstack.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, Node, Express, Heroku, MongoDB</strong> - Quick! Our ship is under attack by the Borg! Access the mainframe to dig up some information about them!</p>
-    </td>
+    
   </tr>
   
   <tr>
