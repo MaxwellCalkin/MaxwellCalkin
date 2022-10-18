@@ -45,7 +45,6 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
       </p>
         <p><strong>Node, Express, Cyclic, MongoDB</strong> - We The People is my favorite and most important passion project. It is designed to hold political leaders accountable by visualizing their votes as they compare to the opinons of the people they represent.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">MLB Lineup Simulator</h3>
         <br />
@@ -54,7 +53,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         </a>
         <br />
         <p align="center">
-           
+   
   <a href="https://github.com/MaxwellCalkin/MLBLineupSim" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -63,8 +62,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
   </a>
       </p>
         <p><strong>Javascript, CSS, HTML with MLB API Integration</strong> - Go head to head with a freind picking your favorite MLB stars!  Whoever selects the nine best players WINS!</p>
-    </td>
-    
+    </td>  
   </tr>
   
   <tr>
