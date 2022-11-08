@@ -13,7 +13,7 @@
   <a href="https://angel.co/u/maxwell-calkin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1CXtPd0bBjMgi9osOXdCqRek-bfjGGr9K/edit?usp=sharing&ouid=106969897960613523203&rtpof=true&sd=true" target="_blank">
+  <a href="https://drive.google.com/file/d/18s4BvyuKK6dtH_aBKyxnudAGubluvY9S/view?usp=share_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
@@ -153,7 +153,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
   <a href="https://angel.co/u/maxwellcalkin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1lobMEFJijrhqywOJ1BVsSs9jfV1q9Y2w/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18s4BvyuKK6dtH_aBKyxnudAGubluvY9S/view?usp=share_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
