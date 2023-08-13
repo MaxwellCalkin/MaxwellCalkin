@@ -46,22 +46,22 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <p><strong>Node, Express, Cyclic, MongoDB</strong> - We The People is my favorite and most important passion project. It is designed to hold political leaders accountable by visualizing their votes as they compare to the opinons of the people they represent.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">MLB Lineup Simulator</h3>
+      <h3 align="center">Vapor - Game Hub</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/sox.gif" width="100%" alt="MLB App"/>
+        <a target="_blank" href="https://game-hub-phi-vert.vercel.app">
+            <img src="https://github.com/MaxwellCalkin/portfolio/blob/main/images/gameHub.gif" width="100%" alt="MLB App"/>
         </a>
         <br />
         <p align="center">
    
-  <a href="https://github.com/MaxwellCalkin/MLBLineupSim" target="_blank">
+  <a href="https://github.com/MaxwellCalkin/game-hub" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://mlblineupsimulator.netlify.app" target="_blank">
+  <a href="https://game-hub-phi-vert.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS, HTML with MLB API Integration</strong> - Go head to head with a freind picking your favorite MLB stars!  Whoever selects the nine best players WINS!</p>
+        <p><strong>React, Vercel, Chakra, Zustand</strong> - Browse your favorite games on Vapor, my all-in-one game hub! Note the loading skeletons and quick load times from chached data using React Query!</p>
     </td>  
   </tr>
   
