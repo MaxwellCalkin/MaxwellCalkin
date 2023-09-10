@@ -32,7 +32,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">We The People</h3>
         <br />
-      <a target="_blank" href="https://www.WeThePeople.cyclic.app/">
+      <a target="_blank" href="https://wethepeople.cyclic.app/">
             <img src="images/wtp.gif" width="100%"  alt="We The People"/>
         </a>
         <br />
