@@ -1,4 +1,4 @@
-<img src="images/calkin.png" width="100%">![financeHUB](https://github.com/MaxwellCalkin/MaxwellCalkin/assets/101308415/39234122-b00c-4ac1-93d4-6b479012323a)
+<img src="images/calkin.png" width="100%">
 
 
 <p align="center">
