@@ -84,22 +84,22 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Elegant Websites for Businesses</h3>
+      <h3 align="center">Sigma - Finance Dashboard</h3>
         <br />
-        <a target="_blank" href="https://salonbymaxwell.netlify.app/">
-          <img src="images/salon.gif" width="100%" alt="Salon Site"/>
+        <a target="_blank" href="https://finance-hub-sigma.vercel.app/">
+          <img src="images/financeHUB.gif" width="100%" alt="Finance Dashboard"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/MaxwellCalkin/salon" target="_blank">
+  <a href="https://github.com/MaxwellCalkin/financeHUB" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://salonbymaxwell.netlify.app" target="_blank">
+  <a href="https://finance-hub-sigma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Dynamic, responsive websites for all types of businesses. Contact me to get started on your website and start engaging customers online!</p>
+        <p><strong>React, Typescript, Recharts, Redux, MongoDB, Material UI</strong> - Dynamic, responsive dashboard that stores your company's data and visualizes it clearly and elegantly.</p>
     </td>
   </tr>
 </table>
