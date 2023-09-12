@@ -23,8 +23,6 @@ After graduating from one of the world’s most prestigious conservatories, I bu
 
 See [my website](https://MaxwellCalkin.netlify.app) for more information!
 
-<-- PROJECTS -->
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
