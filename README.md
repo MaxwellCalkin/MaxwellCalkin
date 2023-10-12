@@ -92,7 +92,7 @@ See [my website](https://MaxwellCalkin.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/MaxwellCalkin/financeHUB" target="_blank">
+  <a href="https://github.com/MaxwellCalkin/finance-HUB" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://finance-hub-sigma.vercel.app/" target="_blank">
