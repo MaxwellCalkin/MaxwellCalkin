@@ -1,159 +1,115 @@
-<img src="images/calkin.png" width="100%">
+<h1 align="center">Maxwell Calkin</h1>
 
+<p align="center">
+  <strong>AI Safety Researcher & Engineer</strong>
+</p>
 
 <p align="center">
   <a href="https://maxwellcalkin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=0d1117&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
-  <a href="https://linkedin.com.maxwellcalkin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  <a href="https://linkedin.com/in/maxwellcalkin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=0d1117&style=for-the-badge&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com.maxcalkin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/maxwell-calkin" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/11H6GT4j3GjPLKQ-HX-xFq3b7JlNhP-cu/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://twitter.com/maxcalkin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=0d1117&style=for-the-badge&logo=twitter&logo-color=white"/>
   </a>
 </p>
-
-After graduating from one of the world’s most prestigious conservatories, I built the first part of my career as a creator and performer for Broadway productions.  Through these creative pursuits, my interest in coding was able to flourish.  My intuition was that the web was a great way to interact with an audience, and I quickly found myself yearning to use this set of skills to affect more people in more profound ways.  When Covid hit, I used it as an opportunity to begin freelancing as a web developer, and I’m now eager to bring my skills to a brand with global reach.
-
-See [my website](https://MaxwellCalkin.netlify.app) for more information!
-
-<h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">We The People</h3>
-        <br />
-      <a target="_blank" href="https://wethepeople.cyclic.app/">
-            <img src="images/wtp.gif" width="100%"  alt="We The People"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/MaxwellCalkin/weThePeople" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://WeThePeople.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Node, Express, Cyclic, MongoDB</strong> - We The People is my favorite and most important passion project. It is designed to hold political leaders accountable by visualizing their votes as they compare to the opinons of the people they represent.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Vapor - Game Hub</h3>
-        <br />
-        <a target="_blank" href="https://game-hub-phi-vert.vercel.app">
-            <img src="https://github.com/MaxwellCalkin/portfolio/blob/main/images/gameHub.gif" width="100%" alt="MLB App"/>
-        </a>
-        <br />
-        <p align="center">
-   
-  <a href="https://github.com/MaxwellCalkin/game-hub" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://game-hub-phi-vert.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Vercel, Chakra, Zustand</strong> - Browse your favorite games on Vapor, my all-in-one game hub! Note the loading skeletons and quick load times from chached data using React Query!</p>
-    </td>  
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">MaxwellCalkin.com</h3>
-      <br />
-        <a target="_blank" href="https://www.MaxwellCalkin.com">
-          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/MaxwellCalkin/portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://maxwellcalkin.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Sigma - Finance Dashboard</h3>
-        <br />
-        <a target="_blank" href="https://finance-hub-sigma.vercel.app/">
-          <img src="images/financeHUB.gif" width="100%" alt="Finance Dashboard"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/MaxwellCalkin/finance-HUB" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://finance-hub-sigma.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Typescript, Recharts, Redux, MongoDB, Material UI</strong> - Dynamic, responsive dashboard that stores your company's data and visualizes it clearly and elegantly.</p>
-    </td>
-  </tr>
-</table>
-
-
-<h1 align="center">Technologies</h1>
-
-
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
-</p>
-
-
 
 ---
 
+### About
 
-<h1 align="center">Connect</h1>
+I build tools and conduct research to make AI systems safer and more trustworthy. My work sits at the intersection of **alignment evaluation**, **mechanistic interpretability**, and **AI governance** — with a focus on developing rigorous, reproducible methods for measuring alignment properties of frontier models.
 
+Previously: Broadway performer turned software engineer. Now applying that creative rigor to one of the most important problems of our time.
 
+Currently working in space systems engineering while pursuing independent AI safety research.
 
-<p align="center">
-  <a href="https://maxwellcalkin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://linkedin.com/in/maxwellcalkin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com.maxcalkin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/maxwellcalkin" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/11H6GT4j3GjPLKQ-HX-xFq3b7JlNhP-cu/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+---
+
+### AI Safety Research & Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/alignment-evals">alignment-evals</a></h3>
+  <p>A rigorous framework for evaluating AI alignment properties. Measures <strong>sycophancy</strong>, <strong>corrigibility</strong>, <strong>deception</strong>, <strong>goal stability under distribution shift</strong>, and <strong>power-seeking behavior</strong> across models with statistical confidence intervals.</p>
+  <p><code>pip install alignment-evals</code></p>
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/interpretability-toolkit">interpretability-toolkit</a></h3>
+  <p>Practical tools for <strong>mechanistic interpretability</strong> of neural networks. Includes activation caching, <strong>linear probes</strong>, <strong>activation patching</strong>, <strong>circuit discovery</strong>, and interactive visualization for transformer models.</p>
+  <p><code>pip install interpretability-toolkit</code></p>
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-2.0+-red?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/llm-circuit-visualizer">llm-circuit-visualizer</a></h3>
+  <p>Interactive visualization tool for exploring internal circuits in language models. Visualize attention patterns, activation flows, and feature representations.</p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/million-good-ways">million-good-ways</a></h3>
+  <p>A community platform for envisioning positive futures with advanced AI. Crowdsourcing optimistic, grounded scenarios for the advent of ASI.</p>
+</td>
+</tr>
+</table>
+
+---
+
+### Other Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/Autobot">Autobot</a></h3>
+  <p>Autonomous development assistant for Claude Code — scaffolds TDD workflows, quality gates, and specialized subagents for long-running agentic coding tasks.</p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/llm-ops">llm-ops</a></h3>
+  <p>Agentic coding starter kit. Templates and tooling for building reliable LLM-powered applications.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/LLMRI">LLMRI</a></h3>
+  <p>An MRI for LLMs — diagnostic tools to understand model internals and behavior patterns.</p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/Folder-Context">Folder-Context</a></h3>
+  <p>Paste an entire folder's contents into an LLM chat window with ASCII tree visualization. Formatted for easy LLM comprehension.</p>
+</td>
+</tr>
+</table>
+
+---
+
+### Research Interests
+
+- **Alignment evaluation methodology** — How do we rigorously measure whether a model is aligned? What are the right metrics, and how do we know our tests are actually testing what we think?
+- **Mechanistic interpretability** — Understanding the internal algorithms of neural networks. Activation patching, circuit discovery, and linear probes as tools for safety.
+- **Scalable oversight** — As AI systems become more capable, how do we maintain meaningful human oversight? What does the oversight stack look like?
+- **AI governance for space systems** — Applying safety-critical engineering principles from aerospace to AI deployment.
+
+---
+
+### Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
