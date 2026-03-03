@@ -49,12 +49,23 @@ Currently working in space systems engineering while pursuing independent AI saf
 </tr>
 <tr>
 <td width="50%" valign="top">
+  <h3><a href="https://github.com/MaxwellCalkin/prompt-injection-benchmark">prompt-injection-benchmark</a></h3>
+  <p>Rigorous benchmark for evaluating LLM robustness to <strong>prompt injection attacks</strong>. Formal taxonomy of 6 attack categories, 14+ vectors with severity ratings, and multi-dimensional scoring (resistance + helpfulness).</p>
+  <p><code>pip install -e .</code></p>
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
   <h3><a href="https://github.com/MaxwellCalkin/llm-circuit-visualizer">llm-circuit-visualizer</a></h3>
   <p>Interactive visualization tool for exploring internal circuits in language models. Visualize attention patterns, activation flows, and feature representations.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/MaxwellCalkin/million-good-ways">million-good-ways</a></h3>
   <p>A community platform for envisioning positive futures with advanced AI. Crowdsourcing optimistic, grounded scenarios for the advent of ASI.</p>
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
