@@ -12,13 +12,21 @@
 
 ---
 
-I build open-source tools and frameworks for measuring whether AI systems are safe and aligned. My work focuses on two questions:
+I build open-source tools for measuring whether AI systems are safe &mdash; and I believe most alignment work is too narrow because it only looks at the problem from one angle.
 
-1. **How do we know a model is aligned?** &mdash; Developing rigorous, reproducible evaluation methods for alignment-relevant behaviors (sycophancy, deception, power-seeking, corrigibility) that go beyond surface-level red-teaming.
+A model that *behaves* correctly on benchmarks may still harbor misaligned internal representations. A model with well-understood internals may still cause harm when embedded in poorly designed institutions. A technically aligned system deployed without shared understanding across the teams operating it is a disaster waiting to happen. These aren't separate problems &mdash; they're four faces of the same problem, and alignment only works when we address all of them simultaneously:
 
-2. **What is actually happening inside the model?** &mdash; Building practical mechanistic interpretability tools that help researchers trace model behavior to specific internal circuits and representations.
+1. **What is happening inside the model?** &mdash; The interior of the system itself. Mechanistic interpretability, circuit discovery, and representation analysis &mdash; understanding the actual computational structures that produce behavior, not just the behavior we observe.
 
-I'm currently a systems engineer with the U.S. Space Force, where I work on safety-critical systems and apply aerospace-grade engineering rigor to AI deployment. The overlap between space systems safety and AI safety is deeper than most people realize &mdash; both domains demand formal verification, defense in depth, and the assumption that failure is catastrophic and irreversible.
+2. **What does the model actually do?** &mdash; Observable behavior under rigorous evaluation. Sycophancy, deception, power-seeking, corrigibility &mdash; measured reproducibly across conditions, not just spot-checked.
+
+3. **What shared values and understanding do we bring to deployment?** &mdash; The culture, norms, and meaning-making of the teams and communities building and operating AI systems. Technical safety without shared understanding of *why* it matters is brittle. Alignment is as much a coordination problem as a technical one.
+
+4. **What systems, institutions, and governance structures do we build around AI?** &mdash; The external structures that constrain, monitor, and correct AI behavior at scale. Oversight mechanisms, deployment infrastructure, regulatory frameworks, and feedback loops that operate even when individual components fail.
+
+Most alignment research lives in just one or two of these dimensions. My work is an attempt to build tools that bridge them.
+
+I'm currently a systems engineer with the U.S. Space Force, where I work on safety-critical systems and apply aerospace-grade engineering rigor to AI deployment. Aerospace taught me something that applies directly to alignment: **safety is never a property of a single component &mdash; it's a property of the entire system, including the humans, institutions, and culture surrounding it.** A rocket engine can be flawless and still fail catastrophically if the organizational culture suppresses dissent about risk. The same is true for AI.
 
 ### Featured Research Tools
 
@@ -34,15 +42,18 @@ I'm currently a systems engineer with the U.S. Space Force, where I work on safe
 
 ### Research Interests
 
-- **Alignment evaluation methodology** &mdash; Developing metrics and benchmarks that actually measure alignment, not just compliance. How do we build evaluations that are robust to Goodharting?
-- **Mechanistic interpretability** &mdash; Activation patching, circuit discovery, and linear probes as tools for building a mechanistic theory of model behavior.
-- **Scalable oversight** &mdash; As AI systems grow more capable than their overseers, what institutional and technical mechanisms maintain meaningful human control?
-- **AI safety for space & defense systems** &mdash; Applying safety-critical engineering principles from aerospace (formal verification, fault trees, defense in depth) to AI deployment in high-stakes environments.
-- **Existential risk from advanced AI** &mdash; Long-term catastrophic risk reduction through technical alignment work and governance research.
+- **Mechanistic interpretability** &mdash; Understanding the interior of models: activation patching, circuit discovery, and linear probes as tools for building a genuine theory of *what the model is*, not just what it does.
+- **Alignment evaluation methodology** &mdash; Measuring observable behavior rigorously. Developing metrics robust to Goodharting, where the evaluation captures real alignment rather than surface compliance.
+- **Scalable oversight & coordination** &mdash; How do the humans and teams around AI systems maintain shared understanding as capabilities scale? Alignment isn't just a property of the model &mdash; it's a property of the sociotechnical system.
+- **AI governance & institutional design** &mdash; Building external structures (regulatory frameworks, deployment protocols, feedback loops) that keep AI systems safe even when individual technical measures are insufficient.
+- **AI safety for space & defense** &mdash; Applying lessons from aerospace safety culture (formal verification, fault trees, defense in depth, and organizational risk management) to AI deployment in high-stakes environments.
+- **Developmental risk** &mdash; AI capabilities evolve through stages. A model that is incapable of causing harm is not the same as a model that is genuinely aligned. Safety approaches must evolve *with* the system, not be bolted on after the fact.
 
 ### Approach
 
-I believe AI safety needs to be built on the same engineering discipline we apply to other safety-critical domains. That means: reproducible evaluations, open tools, adversarial testing, and the assumption that if you can't measure it, you can't trust it. Everything I build is open-source because safety research that lives behind closed doors doesn't make anyone safer.
+I believe alignment is fundamentally a *multi-dimensional* problem. You can't solve it by looking at behavior alone, or internals alone, or governance alone. You need all four perspectives &mdash; the interior of the model, its observable behavior, the shared understanding of the people around it, and the institutional structures constraining it &mdash; working together. When any one dimension is neglected, the others eventually fail.
+
+This is why I build open tools that bridge these dimensions: interpretability tools that connect internal representations to observable behavior, evaluation frameworks that inform governance decisions, and benchmarks designed to be useful to both researchers and policymakers. Everything is open-source because safety research behind closed doors doesn't make anyone safer.
 
 ### Tech
 
