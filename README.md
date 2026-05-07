@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaxwellCalkin">Website</a> &middot;
+  <a href="https://MaxwellCalkin.netlify.app">Website</a> &middot;
   <a href="https://twitter.com/maxcalkin">Twitter/X</a> &middot;
   <a href="https://linkedin.com/in/maxwellcalkin">LinkedIn</a>
 </p>
