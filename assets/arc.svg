@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="The Arc — from bass to gaming to software to AI safety">
+  <title>The Arc — Music · Games · Software · AI Safety</title>
+
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#03050d"/>
+      <stop offset="50%"  stop-color="#070a16"/>
+      <stop offset="100%" stop-color="#03050d"/>
+    </linearGradient>
+
+    <linearGradient id="arcLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#a855f7"/>
+      <stop offset="33%"  stop-color="#ef4444"/>
+      <stop offset="66%"  stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+
+    <filter id="glowA" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <style><![CDATA[
+      .arc-title { font-family: Georgia, serif; font-size: 18px; letter-spacing: 0.32em; fill: #f5f1e6; font-weight: 300; }
+      .era       { font-family: Georgia, serif; font-size: 16px; fill: #f5f1e6; font-weight: 400; }
+      .era-cap   { font-family: 'SF Mono', monospace; font-size: 10px; letter-spacing: 0.22em; fill: #94a3b8; }
+      .era-yr    { font-family: 'SF Mono', monospace; font-size: 11px; fill: #fbbf24; letter-spacing: 0.18em; }
+      .era-desc  { font-family: Georgia, serif; font-size: 11px; fill: #cbd5e1; font-style: italic; }
+      .now       { font-family: 'SF Mono', monospace; font-size: 9px; fill: #fbbf24; letter-spacing: 0.3em; font-weight: 700; }
+
+      @keyframes flow {
+        0%   { stroke-dashoffset: 1200; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes pulse {
+        0%,100% { transform: scale(1);    opacity: 0.85; }
+        50%     { transform: scale(1.25); opacity: 1; }
+      }
+      @keyframes slide {
+        0%   { offset-distance: 0%; }
+        100% { offset-distance: 100%; }
+      }
+      @keyframes blink {
+        0%,100% { opacity: 1; }
+        50%     { opacity: 0.3; }
+      }
+
+      .flowline { stroke-dasharray: 1200; animation: flow 6s ease-in-out infinite alternate; }
+      .node-1   { transform-origin: 150px 140px; animation: pulse 3s ease-in-out infinite; animation-delay: 0s; }
+      .node-2   { transform-origin: 450px 140px; animation: pulse 3s ease-in-out infinite; animation-delay: 0.6s; }
+      .node-3   { transform-origin: 750px 140px; animation: pulse 3s ease-in-out infinite; animation-delay: 1.2s; }
+      .node-4   { transform-origin: 1050px 140px; animation: pulse 3s ease-in-out infinite; animation-delay: 1.8s; }
+      .nowdot   { animation: blink 1.6s ease-in-out infinite; }
+    ]]></style>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bgA)"/>
+
+  <text class="arc-title" x="600" y="38" text-anchor="middle">THE  ARC</text>
+  <line x1="500" y1="52" x2="700" y2="52" stroke="#fbbf24" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- the spine -->
+  <line x1="120" y1="140" x2="1080" y2="140" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- flowing colored line over the spine -->
+  <line x1="120" y1="140" x2="1080" y2="140"
+        stroke="url(#arcLine)" stroke-width="2.5"
+        class="flowline" filter="url(#glowA)"/>
+
+  <!-- ===== ERA 1: MUSIC ===== -->
+  <g>
+    <circle cx="150" cy="140" r="9"  fill="#a855f7" class="node-1" filter="url(#glowA)"/>
+    <circle cx="150" cy="140" r="3"  fill="#fff"/>
+    <text class="era-yr"   x="150" y="92"  text-anchor="middle">2015 — 2020</text>
+    <text class="era"      x="150" y="115" text-anchor="middle">Music</text>
+    <text class="era-cap"  x="150" y="172" text-anchor="middle">BASSIST</text>
+    <text class="era-desc" x="150" y="194" text-anchor="middle">Radio City · Broadway</text>
+    <text class="era-desc" x="150" y="210" text-anchor="middle">tens of thousands of people</text>
+    <text class="era-desc" x="150" y="226" text-anchor="middle">— uncontested ceiling —</text>
+  </g>
+
+  <!-- ===== ERA 2: GAMES ===== -->
+  <g>
+    <circle cx="450" cy="140" r="9"  fill="#ef4444" class="node-2" filter="url(#glowA)"/>
+    <circle cx="450" cy="140" r="3"  fill="#fff"/>
+    <text class="era-yr"   x="450" y="92"  text-anchor="middle">2020 — 2022</text>
+    <text class="era"      x="450" y="115" text-anchor="middle">Games</text>
+    <text class="era-cap"  x="450" y="172" text-anchor="middle">PRO  GAMING</text>
+    <text class="era-desc" x="450" y="194" text-anchor="middle">LoL · Valorant · Fortnite</text>
+    <text class="era-desc" x="450" y="210" text-anchor="middle">hard, contested, depressing</text>
+    <text class="era-desc" x="450" y="226" text-anchor="middle">— not enough contribution —</text>
+  </g>
+
+  <!-- ===== ERA 3: SOFTWARE ===== -->
+  <g>
+    <circle cx="750" cy="140" r="9"  fill="#22d3ee" class="node-3" filter="url(#glowA)"/>
+    <circle cx="750" cy="140" r="3"  fill="#fff"/>
+    <text class="era-yr"   x="750" y="92"  text-anchor="middle">2022 — NOW</text>
+    <text class="era"      x="750" y="115" text-anchor="middle">Software</text>
+    <text class="era-cap"  x="750" y="172" text-anchor="middle">DEV  ·  ML  ·  AI</text>
+    <text class="era-desc" x="750" y="194" text-anchor="middle">aerospace-grade rigor · AI safety</text>
+    <text class="era-desc" x="750" y="210" text-anchor="middle">two daughters along the way</text>
+    <text class="era-desc" x="750" y="226" text-anchor="middle">— seeds, sown —</text>
+  </g>
+
+  <!-- ===== ERA 4: AI SAFETY ===== -->
+  <g>
+    <circle cx="1050" cy="140" r="11" fill="none" stroke="#fbbf24" stroke-width="2" class="node-4" filter="url(#glowA)"/>
+    <circle cx="1050" cy="140" r="5"  fill="#fbbf24" class="nowdot"/>
+    <text class="era-yr"   x="1050" y="92"  text-anchor="middle">NEXT</text>
+    <text class="era"      x="1050" y="115" text-anchor="middle">AI Safety Lab</text>
+    <text class="era-cap"  x="1050" y="172" text-anchor="middle">FOUNDER</text>
+    <text class="era-desc" x="1050" y="194" text-anchor="middle">align intelligence toward</text>
+    <text class="era-desc" x="1050" y="210" text-anchor="middle">what is genuinely life-giving</text>
+    <text class="now"      x="1050" y="232" text-anchor="middle">▸  READY  ENOUGH  TO  BEGIN  ◂</text>
+  </g>
+
+  <!-- "now" marker bar -->
+  <g>
+    <line x1="750" y1="248" x2="750" y2="262" stroke="#fbbf24" stroke-width="1"/>
+    <text class="now" x="750" y="273" text-anchor="middle" opacity="0.6">YOU  ARE  HERE</text>
+  </g>
+</svg>

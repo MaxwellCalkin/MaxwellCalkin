@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-label="The Three Pillars: Health, Family, Mission">
+  <title>The Three Pillars — Health · Family · Mission</title>
+
+  <defs>
+    <linearGradient id="bgP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#070a16"/>
+      <stop offset="100%" stop-color="#03050d"/>
+    </linearGradient>
+
+    <linearGradient id="pillarHealth" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#065f46"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="pillarFamily" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#7c2d12"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <linearGradient id="pillarMission" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+
+    <filter id="glowP" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <style><![CDATA[
+      .ptitle { font-family: Georgia, serif; font-size: 18px; letter-spacing: 0.32em; fill: #f5f1e6; font-weight: 300; }
+      .pcap   { font-family: -apple-system, system-ui, sans-serif; font-size: 12px; letter-spacing: 0.16em; fill: #94a3b8; }
+      .pword  { font-family: Georgia, serif; font-size: 13px; fill: #cbd5e1; font-style: italic; }
+      .pnum   { font-family: 'SF Mono', monospace; font-size: 11px; fill: #fbbf24; letter-spacing: 0.18em; }
+
+      @keyframes riseH { 0% { transform: scaleY(0); }       100% { transform: scaleY(1); } }
+      @keyframes glow  { 0%,100% { opacity: 0.7; } 50% { opacity: 1; } }
+      @keyframes floatY{ 0%,100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+
+      .pillar { transform-origin: bottom; animation: riseH 1.8s ease-out forwards; }
+      .pillar-1 { animation-delay: 0.1s; }
+      .pillar-2 { animation-delay: 0.4s; }
+      .pillar-3 { animation-delay: 0.7s; }
+
+      .pglow  { animation: glow 4s ease-in-out infinite; }
+      .picon  { transform-origin: center; animation: floatY 5s ease-in-out infinite; }
+    ]]></style>
+  </defs>
+
+  <rect width="900" height="320" fill="url(#bgP)"/>
+
+  <!-- horizon line -->
+  <line x1="60" y1="265" x2="840" y2="265" stroke="#1e293b" stroke-width="1"/>
+  <line x1="60" y1="265" x2="840" y2="265" stroke="#fbbf24" stroke-width="0.5" stroke-dasharray="2 8" opacity="0.4"/>
+
+  <text class="ptitle" x="450" y="40" text-anchor="middle">THE  THREE  PILLARS</text>
+  <line x1="350" y1="55" x2="550" y2="55" stroke="#fbbf24" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- HEALTH pillar -->
+  <g transform="translate(180 0)">
+    <g class="pillar pillar-1">
+      <rect x="-45" y="120" width="90" height="145" fill="url(#pillarHealth)" opacity="0.9" rx="2"/>
+      <rect x="-50" y="115" width="100" height="10" fill="#10b981" opacity="0.7" rx="1"/>
+      <rect x="-50" y="265" width="100" height="6"  fill="#10b981" opacity="0.7" rx="1"/>
+    </g>
+    <g class="pglow picon" filter="url(#glowP)" transform="translate(0 95)">
+      <circle cx="0" cy="0" r="14" fill="none" stroke="#10b981" stroke-width="1.5"/>
+      <path d="M -7 -1 L -3 3 L 7 -5" fill="none" stroke="#10b981" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text class="pnum"  x="0" y="200" text-anchor="middle" fill="#fff" opacity="0.85">I</text>
+    <text class="ptitle" x="0" y="295" text-anchor="middle" font-size="14">HEALTH</text>
+    <text class="pword"  x="0" y="312" text-anchor="middle">instrument of service</text>
+  </g>
+
+  <!-- FAMILY pillar (tallest — central per the Constitution) -->
+  <g transform="translate(450 0)">
+    <g class="pillar pillar-2">
+      <rect x="-50" y="95"  width="100" height="170" fill="url(#pillarFamily)" opacity="0.92" rx="2"/>
+      <rect x="-55" y="90"  width="110" height="10"  fill="#fbbf24" opacity="0.75" rx="1"/>
+      <rect x="-55" y="265" width="110" height="6"   fill="#fbbf24" opacity="0.75" rx="1"/>
+    </g>
+    <g class="pglow picon" filter="url(#glowP)" transform="translate(0 68)">
+      <!-- hearth/home glyph -->
+      <path d="M -14 4 L 0 -10 L 14 4 L 14 14 L -14 14 Z"
+            fill="none" stroke="#fbbf24" stroke-width="1.8"
+            stroke-linejoin="round"/>
+      <circle cx="0" cy="6" r="2.5" fill="#fbbf24"/>
+    </g>
+    <text class="pnum"  x="0" y="180" text-anchor="middle" fill="#fff" opacity="0.9">II</text>
+    <text class="ptitle" x="0" y="295" text-anchor="middle" font-size="14">FAMILY</text>
+    <text class="pword"  x="0" y="312" text-anchor="middle">central, not secondary</text>
+  </g>
+
+  <!-- MISSION pillar -->
+  <g transform="translate(720 0)">
+    <g class="pillar pillar-3">
+      <rect x="-45" y="110" width="90" height="155" fill="url(#pillarMission)" opacity="0.9" rx="2"/>
+      <rect x="-50" y="105" width="100" height="10" fill="#22d3ee" opacity="0.7" rx="1"/>
+      <rect x="-50" y="265" width="100" height="6"  fill="#22d3ee" opacity="0.7" rx="1"/>
+    </g>
+    <g class="pglow picon" filter="url(#glowP)" transform="translate(0 85)">
+      <!-- arrow / compass needle -->
+      <circle cx="0" cy="0" r="13" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+      <path d="M 0 -8 L 4 4 L 0 1 L -4 4 Z" fill="#22d3ee"/>
+    </g>
+    <text class="pnum"  x="0" y="195" text-anchor="middle" fill="#fff" opacity="0.85">III</text>
+    <text class="ptitle" x="0" y="295" text-anchor="middle" font-size="14">MISSION</text>
+    <text class="pword"  x="0" y="312" text-anchor="middle">worthy of the gifts</text>
+  </g>
+
+  <!-- caption -->
+  <text class="pcap" x="450" y="80" text-anchor="middle">UNDER  THE  UMBRELLA  OF  LIVE  LIFE  BEST</text>
+</svg>

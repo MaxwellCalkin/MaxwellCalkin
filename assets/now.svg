@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" role="img" aria-label="Currently building toward an AI safety lab">
+  <title>Current Focus — building toward an AI safety lab</title>
+
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0d1326"/>
+      <stop offset="100%" stop-color="#070a16"/>
+    </linearGradient>
+
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#fbbf24" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#fbbf24" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="liveGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <style><![CDATA[
+      .heading { font-family: 'SF Mono', ui-monospace, monospace; font-size: 11px;
+                 letter-spacing: 0.38em; fill: #94a3b8; font-weight: 600; }
+      .live    { font-family: 'SF Mono', monospace; font-size: 10px;
+                 letter-spacing: 0.34em; fill: #fbbf24; font-weight: 700; }
+      .row     { font-family: 'SF Mono', monospace; font-size: 13px;
+                 fill: #e2e8f0; letter-spacing: 0.04em; }
+      .label   { font-family: 'SF Mono', monospace; font-size: 11px;
+                 fill: #22d3ee; letter-spacing: 0.16em; font-weight: 600; }
+      .punct   { fill: #475569; }
+      .next    { font-family: Georgia, serif; font-size: 14px;
+                 fill: #fbbf24; font-style: italic; }
+
+      @keyframes blink   { 0%,100% { opacity: 1; } 50% { opacity: 0.2; } }
+      @keyframes scan    { 0% { transform: translateX(-100%); }
+                           100% { transform: translateX(100%); } }
+      @keyframes shimmer { 0%,100% { opacity: 0.5; } 50% { opacity: 1; } }
+      @keyframes cursor  { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+
+      .liveDot { animation: blink 1.4s ease-in-out infinite; }
+      .scanLine{ animation: scan 4s linear infinite; }
+      .shim    { animation: shimmer 3s ease-in-out infinite; }
+      .cur     { animation: cursor 1s steps(1) infinite; }
+    ]]></style>
+  </defs>
+
+  <!-- card -->
+  <rect x="6" y="6" width="888" height="188" rx="6" fill="url(#cardBg)"
+        stroke="#1e293b" stroke-width="1"/>
+  <rect x="6" y="6" width="888" height="2" fill="url(#goldLine)" class="shim"/>
+
+  <!-- terminal scanline -->
+  <g clip-path="inset(0)" opacity="0.07">
+    <rect class="scanLine" x="0" y="0" width="200" height="200" fill="#fbbf24"/>
+  </g>
+
+  <!-- header bar -->
+  <g transform="translate(28 36)">
+    <circle cx="0"  cy="0" r="4" fill="#fbbf24" class="liveDot" filter="url(#liveGlow)"/>
+    <text class="live" x="14" y="4">LIVE  ·  CURRENT  FOCUS</text>
+    <text class="heading" x="780" y="4" text-anchor="end">~ /maxwell/now</text>
+  </g>
+
+  <line x1="28" y1="56" x2="872" y2="56" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- rows -->
+  <g transform="translate(38 86)" font-family="'SF Mono', monospace">
+    <text class="label" y="0">BUILDING</text>
+    <text class="row"   x="135" y="0">software · ML systems · agent infrastructure</text>
+
+    <text class="label" y="26">LEARNING</text>
+    <text class="row"   x="135" y="26">AI safety · interpretability · alignment research</text>
+
+    <text class="label" y="52">RAISING</text>
+    <text class="row"   x="135" y="52">Olive (2) and Blossom (7mo) with reverence and delight</text>
+
+    <text class="label" y="78">NEXT</text>
+    <text class="next"  x="135" y="78">founding an AI safety R&amp;D lab<tspan class="cur"> ▌</tspan></text>
+  </g>
+</svg>
